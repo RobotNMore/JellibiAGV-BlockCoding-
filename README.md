@@ -9,13 +9,15 @@ JellibiAGV 는 아두이노 나노 호환보드를 중심으로 RFID TAG 를 인
 
 이 코드는 mBlock5 프로그램을 사용하는 JellibiAGV의 Block Coding 버전 입니다.
 
+### 다운로드
+[젤리비 마카롱을 위한 mBlock 5 확장 사용법 다운로드](http://www.robotnmore.com/download/codecrunch/robotjellibi_mBlock5_manual_v01.pdf)
 [미션 Map 다운로드하기](http://www.robotnmore.com/download/codecrunch/robotjellibi_mission_map_v01.pdf) 
 
 ## mBlock 실행 및 초기 설정
 
 ### mBlock5 설치
 
-https://www.mblock.cc/en us/download/
+https://www.mblock.cc/en-us/download/
 위 링크에서 mBlock5 프로그램을 다운로드하고, 설치 합니다.  
 
 ### mBlock 실행 및 초기 설정
