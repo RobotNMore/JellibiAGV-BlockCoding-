@@ -51,7 +51,7 @@ mBlock에서 젤리비 AGV를 블럭을 사용하기 위해서는 Jellibi-AGV Ex
 
 ## 젤리비 AGV 제어용 핀 번호
 - mBlock의 Arduino Nano 장치에서 제공하는 '핀' 블록으로 제어하기 위한 핀 번호 
-![https://github.com/RobotNMore/JellibiAGV_BlockCoding/blob/master/jellibiAGV_pin.PNG?raw=true]
+![JellibiAGV_Pin](./jellibiAGV_pin.PNG)
 
 
 
