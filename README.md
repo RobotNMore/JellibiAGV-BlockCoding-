@@ -9,6 +9,8 @@ JellibiAGV 는 아두이노 나노 호환보드를 중심으로 RFID TAG 를 인
 
 이 코드는 mBlock5 프로그램을 사용하는 JellibiAGV의 Block Coding 버전 입니다.
 
+[미션 Map 다운로드하기](http://www.robotnmore.com/download/codecrunch/robotjellibi_mission_map_v01.pdf) 
+
 ## mBlock 실행 및 초기 설정
 
 ### mBlock5 설치
@@ -46,6 +48,8 @@ mBlock에서 젤리비 AGV를 블럭을 사용하기 위해서는 Jellibi-AGV Ex
 - 반드시 처음에 **'젤리비 AGV 사용 준비'** 블록을 사용하여야 합니다.
 이 블록을 빠뜨린 경우에 업로드하면 컴파일 오류가 발생 됩니다.
 - ***만약 2020년 7월 이후 생산된 JellibiAGV를 가지고 있다면, 젤리비 부트로더 펌웨어를 ATmega328P 최신 버전으로 업데이트해야 합니다.***    
+
+> 문의하기 - sein@robotnmore.com
 
 
 
